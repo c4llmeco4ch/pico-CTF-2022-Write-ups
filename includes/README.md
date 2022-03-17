@@ -1,4 +1,4 @@
-# {Problem Name}
+# Includes
 
 ## Category
 
@@ -22,4 +22,3 @@ Go to [this website](http://saturn.picoctf.net:61570) and see what you can disco
 
 This is a fairly simple flag to find, but it does take a few steps.
 
-With most.
